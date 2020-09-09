@@ -11,11 +11,5 @@ We observe several of the common themes (that bring scientists to open science) 
 
 We are working with and for the members of the University of Montreal to establish an inclusive and collaborative community where students and researchers at all stages of their careers feel welcome to learn, share, and discuss open science values, principles, and practices. As open science is a broad and wide-ranging concept with domain-specific definitions, we will provide opportunities to meet and encourage the exchange of ideas within and across fields because we can all learn from each other. By raising awareness, we hope this project will instigate a culture shift and help people realize how they can immediately benefit from using open and reproducible practices, making science more accessible, transparent and reproducible.
 
-We hope that by optimizing the openness of the scientific process, by empowering the community through:
-– a peer network to share and discuss with other open science enthusiasts;
-– activities and conferences about issues in modern scientific processes;
-– workshops on open research methods;
-– creating learning resources;
-– promoting open tools made by our own members;
-. . .  
+We hope that by optimizing the openness of the scientific process, by empowering the community through: a peer network to share and discuss with other open science enthusiasts; activities and conferences about issues in modern scientific processes; workshops on open research methods; creating learning resources; promoting open tools made by our own members. 
 
