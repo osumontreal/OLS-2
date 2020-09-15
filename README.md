@@ -1,6 +1,12 @@
 ## OLS-2
 16-week mentoring &amp; training program, based on the Mozilla Open Leader program, helping participants in becoming Open Science ambassadors
 
+[The OLS-2 program](https://openlifesci.org/ols-2) 
+
+[OLS-2 Calendar](https://calendar.google.com/calendar/u/0/r?cid=b3BlbmxpZmVzY2lAZ21haWwuY29t)
+
+[OLS-2 schedule](https://openlifesci.org/ols-2/schedule/) 
+
 ## Vision Statement 
 
 ### The problem we are trying to solve.
