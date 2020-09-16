@@ -11,11 +11,11 @@
 
 ### The problem we are trying to solve.
 
-Within our Canadian and Quebec scientific community we notice  several of the common themes that bring scientists to open science. And, despite several governmental and institutional ‘open science roadmaps’ here in Canada and Quebec, there is no clear pathway to understand why, nor how to do, ‘open science’. Especially at the level of the individual (whether beginner researcher, established PI, or even administrator). 
+Within our Canadian and Quebec scientific community we notice  several of the common themes that bring scientists to open science. And, despite several governmental and institutional ‘open science roadmaps’ here in Canada and Quebec, there is no clear pathway to understand why, nor how to do, ‘open science’.  This is epecially relevant, and noticeable at the level of the individual – whether beginner researcher, established PI, or even administrator. 
 
-There is a broad spectrum of what is, and how to do, open science (which, quite frankly, cab be overwhelming for anyone in the academic community). Additionally, the absence of clear guidelines, tools, and workshops is predominantly noticed among the french-speaking research communities. Indeed, there is very little french-speaking open science awareness, nor content. 
+There is a broad spectrum of what is, and how to do, open science (which – quite frankly – can be overwhelming for anyone in the academic community). Additionally, the absence of clear guidelines, tools, and workshops is particularily startling among the french-speaking research communities. Indeed, there is very little french-speaking open science awareness, nor content. 
 
-This project will therefore address two main actual constraints to researchers and students adopting 'science in the open'. 
+This project will therefore address two significan issue for researchers and students trying to do _science_ in the open. 
 
 First, create an accessible and structured web platform providing guidance with open science content and concrete resources for the scientific community. 
 
