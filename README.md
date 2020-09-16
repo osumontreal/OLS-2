@@ -15,7 +15,7 @@ Within our Canadian and Quebec scientific community we notice  several of the co
 
 There is a broad spectrum of what is, and how to do, open science (which – quite frankly – can be overwhelming for anyone in the academic community). Additionally, the absence of clear guidelines, tools, and workshops is particularily startling among the french-speaking research communities. Indeed, there is very little french-speaking open science awareness, nor content. 
 
-This project will therefore address two significan issue for researchers and students trying to do _science_ in the open. 
+This project will therefore address two significan issue for researchers and students trying to do _science in the open_. 
 
 First, create an accessible and structured web platform providing guidance with open science content and concrete resources for the scientific community. 
 
