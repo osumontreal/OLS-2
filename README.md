@@ -1,4 +1,6 @@
 ## OLS-2
+Change made testing git 
+
 16-week mentoring &amp; training program, based on the Mozilla Open Leader program, helping participants in becoming Open Science ambassadors
 
 [The OLS-2 program](https://openlifesci.org/ols-2) 
@@ -29,3 +31,4 @@ As open science is a broad and wide-ranging concept with domain-specific definit
 
 We hope that by optimizing the openness of the scientific process, by empowering the community through: a peer network to share and discuss with other open science enthusiasts; activities and conferences about issues in modern scientific processes; workshops on open research methods; creating learning resources; promoting open tools made by our own members. 
 
+A line I wrote on my local computer
