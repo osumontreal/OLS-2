@@ -1,4 +1,4 @@
-## Open Canvase Text 
+## Open Canvas
 ### Product
 #### Problem  
 - Lack of Open Science awareness within the scientific community at the University of Montreal
