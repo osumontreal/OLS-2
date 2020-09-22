@@ -16,9 +16,9 @@ Within our Canadian and Quebec scientific community we notice several of the com
 
 There is a broad spectrum of what is, and how to do, open science (which, quite frankly, can be overwhelming for anyone in the academic community). Additionally, the absence of clear guidelines, tools, and workshops is evident among the french-speaking research communities. Indeed, there is very little french-speaking open science awareness.
 
-#### This project will therefore address significant challenges faced by researchers and students adopting *science in the open*
+#### This project will address significant challenges faced by scientists learning and doing *science in the open*
 
-1. Create an accessible and structured web platform that provides an introduction to open science content, as well as  resources 
+1. Create an accessible and structured web platform that provides an introduction to open science content, as well as resources. 
 2. Build an inclusive and global community, lowering  existing barrier of accessibility by making open and reproducible-related knowledge accessible in French. 
 3. This project will begin from within the scientific community of the University of Montreal, thus, our initial efforts will be  focused on mobilizing our scintific community towards *science in the open*
 
