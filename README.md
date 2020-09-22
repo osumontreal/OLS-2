@@ -4,7 +4,7 @@
 
 [The OLS-2 program](https://openlifesci.org/ols-2) 
 
-[OLS-2 Calendar](https://calendar.google.com/calendar/u/0/r?cid=b3BlbmxpZmVzY2lAZ21haWwuY29t)
+[OLS-2 calendar](https://calendar.google.com/calendar/u/0/r?cid=b3BlbmxpZmVzY2lAZ21haWwuY29t)
 
 [OLS-2 schedule](https://openlifesci.org/ols-2/schedule/) 
 
