@@ -15,7 +15,7 @@
 - Number of members, collaborators
 - Number of events hosted or collabs
 - Visibility on social media:  # hits &  followers, participation on web platform
-- Numnber of initiatives
+- Number of initiatives
 - Number of participants at events
 - Resources allocated by UdeM & funding
 
