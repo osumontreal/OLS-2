@@ -9,6 +9,7 @@
 - Build content and resources to discuss and bring awareness to Open Science  values, principles, and practices (Web platform, events/workshops) in a way that is inclusive to the French community.
 - Translation of existing content from ENG to FR
 - Build a toolbox/how-to-guide on the practice of Open Science tailored for UdeM
+
 #### Key Metrics   
 - Number of members, collaborators
 - Number of events hosted or collabs
@@ -17,29 +18,21 @@
 - Number of participants at events
 - Resources allocated by UdeM & funding
 
-### Community 
 #### Resources Required 
-- Experts
-- Funding/grants
 - Collaborators
+- Experts
+- Funding / grants
+- Servers for the virtual platform (e.g. website, chat)
+- Design branding (e.g logo, flyers)
+- Instructors
 
-#### Unique Value Proposition   
-- Create an onboarding experience to the practice of Open Science for the French speaking community in Quebec
-
-#### User Profiles
-- Students 
+### Community 
+#### Contributer Profiles
+- Students & trainees 
 - Researchers (at all levels)
 - UdeM Faculty and administraion 
 
-#### User Channels 
-- Online platform (Website and Github)
-- Networking events
-- Talks/workshops
-- Mailing list 
-- Twitter
-- Facebook
-
-#### Contributer Profiles
+#### User Profiles
 - Students & trainees 
 - Researchers (at all levels)
 - UdeM Faculty and administraion 
@@ -50,3 +43,25 @@
 - Talks/workshops
 - Twitter
 - Facebook
+
+#### User Channels 
+- Online platform (Website and Github)
+- Networking events
+- Talks/workshops
+- Mailing list 
+- Twitter
+- Facebook
+
+#### Unique Value Proposition   
+###### Create an onboarding experience to the practice of Open Science for the French speaking community in Quebec
+- A peer network in which one can share and discuss with other open science enthusiasts
+- A platform where one can learn and share bilingual resources in French
+- A community with experts and OS enthusiasts to introduce others to OS practices and values
+
+
+
+
+
+
+
+
