@@ -6,15 +6,16 @@
 - No clear guidelines to how researchers should apply Open Science practices at level of the individual
 
 #### Solution   
-- Build content and resources to discuss and bring awareness to Open Science  values, principles, and practices (Web platform, events/workshops) in a way that is inclusive to the French community.
+- Build content and resources to discuss and bring awareness to Open Science  values, principles, and practices (Web platform, events/workshops) in a way that is inclusive to the French community
 - Translation of existing content from ENG to FR
+- Advocate and increase awareness of OS to students and professors on the Board
 - Build a toolbox/how-to-guide on the practice of Open Science tailored for UdeM
 
 #### Key Metrics   
 - Number of members, collaborators
 - Number of events hosted or collabs
 - Visibility on social media:  # hits &  followers, participation on web platform
-- Numnber of initiatives
+- Number of initiatives
 - Number of participants at events
 - Resources allocated by UdeM & funding
 
@@ -28,9 +29,11 @@
 
 ### Community 
 #### Contributer Profiles
-- Students & trainees 
-- Researchers (at all levels)
-- UdeM Faculty and administraion 
+- OS advocates and instructors 
+- Students, trainees and researchers at all levels
+- Maintainers (servers)
+- Professors, employees and students to become community ambassadors
+
 
 #### User Profiles
 - Students & trainees 
