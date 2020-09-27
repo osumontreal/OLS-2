@@ -8,6 +8,8 @@
 
 [OLS-2 schedule](https://openlifesci.org/ols-2/schedule/) 
 
+Watch / trach our progress in OLS-2 [here](https://github.com/open-life-science/ols-2/issues/14)
+
 ## Vision Statement 
 
 ### The problem we are trying to solve.
