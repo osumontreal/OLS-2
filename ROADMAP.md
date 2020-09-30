@@ -1,4 +1,8 @@
+
 ## OSUM Roadmap 2020-2021 
+
+[![hackmd-github-sync-badge](https://hackmd.io/LFGQ1A63S6a7tFGvkUJ5Mw/badge)](https://hackmd.io/LFGQ1A63S6a7tFGvkUJ5Mw)
+
 This will be updated [[Sep 30, 2020]] by sam and sam 
 
 ###### Project Summary & Welcome  
