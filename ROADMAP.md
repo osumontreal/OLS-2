@@ -15,6 +15,7 @@ This is by no means the final, nor full scope, of our mission. You can find [our
 :::  warning
 **Pssst:** If you find typos or have tips to share, feel free to edit this document! This is an open and collective effort.
 :::
+
 ---
 
 We begin in Montreal, Canada, at the **Université de Montréal**.  
