@@ -36,13 +36,13 @@ By the end of OLS-2 we aim to have completed the follwoing objectives (and their
 
 :::success
 A revamped website that descibres who we are, what open science is, and why we so desprately need to move science, towards *science in the open*. #website
-:::
+:::  
 :::success
 Build a french MOOC for Edulib : "Introduction à la science des données sociales" #MOOC
-:::
+:::  
 :::success
 A solid contribution guidelines #Contribution Guidelines
-:::
+:::  
 
 
 ## Tasks   
