@@ -37,12 +37,12 @@ Following our sucessful begning during OLS-1 earlier this year OSUM has expanded
 | A revamped website that descibres who we are, what open science is, and why we so desprately need to move science, towards science in the open |  #website    | 
 | MOOC for Edulib : "Introduction à la science des données sociales" | #MOOC |
 | A comprehensive contribution guidelines | #Contribution Guidelines |
-|   
+
 
 ## Tasks   
 You can start [here](https://github.com/osumontreal/OLS-2/issues), in our issues ... 
 
-TBD / TBC
+To be finished ... 
 >List tasks to complete for each milestone  
 Include information with each task to make it easy for contributors  
 What needs to be done  
