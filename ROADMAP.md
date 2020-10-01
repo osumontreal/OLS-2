@@ -9,11 +9,11 @@ Welcome to OSUM | Open Science UMontreal.
 **We are an onboarding to *open science*, with a focus on francophone communites.**
 
 :::info
-This is by no means the final, nor full scope, of our mission. You can find [our french overview](https://github.com/osumontreal/meta/blob/master/README.fr.md), and our [extended description for OLS-2](https://github.com/osumontreal/OLS-2/blob/master/README.md)
+**This is by no means the final, nor full scope, of our mission. You can also read [our french overview](https://github.com/osumontreal/meta/blob/master/README.fr.md), and our [extended description for OLS-2](https://github.com/osumontreal/OLS-2/blob/master/README.md)**
 :::
 
 :::  warning
-**Pssst:** If you find typos or have tips to share, feel free to edit this document! This is an open and collective effort.
+**Pssst: If you find typos or have tips to share, feel free to edit this document! This is an open and collective effort.**
 :::
 
 ---
@@ -35,18 +35,18 @@ Following our sucessful begning during OLS-1 earlier this year OSUM has expanded
 By the end of OLS-2 we aim to have completed the follwoing objectives (and their #labels). 
 
 :::success
-A revamped website that descibres who we are, what open science is, and why we so desprately need to move science, towards *science in the open*. #website
+**A revamped website that descibres who we are, what open science is, and why we so desprately need to move science, towards *science in the open*** #website
 :::  
 :::success
-Build a french MOOC for Edulib : "Introduction à la science des données sociales" #MOOC
+**Build a french MOOC for Edulib : "Introduction à la science des données sociales"** #MOOC
 :::  
 :::success
-A solid contribution guidelines #Contribution Guidelines
+**A comprehensive contribution guidelines** #Contribution Guidelines
 :::  
 
 
 ## Tasks   
-Can start [here](https://github.com/osumontreal/OLS-2/issues) on our issues ... 
+You can start [here](https://github.com/osumontreal/OLS-2/issues), in our issues ... 
 
 TBD / TBC
 >List tasks to complete for each milestone  
