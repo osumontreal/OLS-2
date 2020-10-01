@@ -33,7 +33,7 @@ Following our sucessful begning during OLS-1 earlier this year OSUM has expanded
 ## Milestones for OLS-2  
 
 | Aim | tag | 
-| -------- | -------- | 
+| :-------- | :-------- | 
 | A revamped website that descibres who we are, what open science is, and why we so desprately need to move science, towards science in the open |  #website    | 
 | MOOC for Edulib : "Introduction à la science des données sociales" | #MOOC |
 | A comprehensive contribution guidelines | #Contribution Guidelines |
