@@ -31,13 +31,9 @@ You will find that some our content is currently being developed in english as w
 Following our sucessful begning during OLS-1 earlier this year OSUM has expanded its team. We are here to outline our aims for the coming months during OLS-2, to the end of 2020.   
 
 ## Milestones for OLS-2  
-
-| Aim | tag | 
-| :-------- | :-------- | 
-| A revamped website that descibres who we are, what open science is, and why we so desprately need to move science, towards science in the open |  #website    | 
-| MOOC for Edulib : "Introduction à la science des données sociales" | #MOOC |
-| A comprehensive contribution guidelines | #Contribution Guidelines |
-
+- A comprehensive contribution guidelines
+- A revamped website that descibres who we are, what open science is, and why we need to do _science in the open_
+- MOOC for Edulib : "Introduction à la science des données sociales"
 
 ## Tasks   
 You can start [here](https://github.com/osumontreal/OLS-2/issues), in our issues ... 
